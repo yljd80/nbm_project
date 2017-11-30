@@ -1,0 +1,112 @@
+c:\users\yoogaem\documents\visual studio 2015\Projects\NBM\NBM\bin\Debug\NBM.exe.config
+c:\users\yoogaem\documents\visual studio 2015\Projects\NBM\NBM\bin\Debug\NBM.exe
+c:\users\yoogaem\documents\visual studio 2015\Projects\NBM\NBM\bin\Debug\NBM.pdb
+c:\users\yoogaem\documents\visual studio 2015\Projects\NBM\NBM\bin\Debug\MySql.Data.dll
+c:\users\yoogaem\documents\visual studio 2015\Projects\NBM\NBM\obj\Debug\NBM.csprojResolveAssemblyReference.cache
+c:\users\yoogaem\documents\visual studio 2015\Projects\NBM\NBM\obj\Debug\NBM.Form1.resources
+c:\users\yoogaem\documents\visual studio 2015\Projects\NBM\NBM\obj\Debug\NBM.Form2.resources
+c:\users\yoogaem\documents\visual studio 2015\Projects\NBM\NBM\obj\Debug\NBM.Properties.Resources.resources
+c:\users\yoogaem\documents\visual studio 2015\Projects\NBM\NBM\obj\Debug\NBM.csproj.GenerateResource.Cache
+c:\users\yoogaem\documents\visual studio 2015\Projects\NBM\NBM\obj\Debug\NBM.exe
+c:\users\yoogaem\documents\visual studio 2015\Projects\NBM\NBM\obj\Debug\NBM.pdb
+c:\users\yoogaem\documents\visual studio 2015\Projects\NBM\NBM\obj\Debug\NBM.Form3.resources
+c:\users\yoogaem\documents\visual studio 2015\Projects\NBM\NBM\obj\Debug\NBM.Form4.resources
+C:\Users\손님용\Desktop\디비설계\NBM\bin\Debug\NBM.exe.config
+C:\Users\손님용\Desktop\디비설계\NBM\obj\Debug\NBM.exe
+C:\Users\손님용\Desktop\디비설계\NBM\obj\Debug\NBM.pdb
+C:\Users\손님용\Desktop\디비설계\NBM\bin\Debug\NBM.exe
+C:\Users\손님용\Desktop\디비설계\NBM\bin\Debug\NBM.pdb
+C:\Users\손님용\Desktop\디비설계\NBM\obj\Debug\NBM.csprojResolveAssemblyReference.cache
+C:\Users\손님용\Desktop\디비설계\NBM\obj\Debug\NBM.Form1.resources
+C:\Users\손님용\Desktop\디비설계\NBM\obj\Debug\NBM.Form2.resources
+C:\Users\손님용\Desktop\디비설계\NBM\obj\Debug\NBM.Form3.resources
+C:\Users\손님용\Desktop\디비설계\NBM\obj\Debug\NBM.Form4.resources
+C:\Users\손님용\Desktop\디비설계\NBM\obj\Debug\NBM.Properties.Resources.resources
+C:\Users\손님용\Desktop\디비설계\NBM\obj\Debug\NBM.csproj.GenerateResource.Cache
+C:\Users\YOOGAEM\Desktop\디비설계\NBM\bin\Debug\NBM.exe.config
+C:\Users\YOOGAEM\Desktop\디비설계\NBM\obj\Debug\NBM.exe
+C:\Users\YOOGAEM\Desktop\디비설계\NBM\obj\Debug\NBM.pdb
+C:\Users\YOOGAEM\Desktop\디비설계\NBM\bin\Debug\NBM.exe
+C:\Users\YOOGAEM\Desktop\디비설계\NBM\bin\Debug\NBM.pdb
+C:\Users\YOOGAEM\Desktop\디비설계\NBM\bin\Debug\MySql.Data.dll
+C:\Users\YOOGAEM\Desktop\디비설계\NBM\obj\Debug\NBM.csprojResolveAssemblyReference.cache
+C:\Users\YOOGAEM\Desktop\디비설계\NBM\obj\Debug\NBM.Form1.resources
+C:\Users\YOOGAEM\Desktop\디비설계\NBM\obj\Debug\NBM.Form2.resources
+C:\Users\YOOGAEM\Desktop\디비설계\NBM\obj\Debug\NBM.Form3.resources
+C:\Users\YOOGAEM\Desktop\디비설계\NBM\obj\Debug\NBM.Form4.resources
+C:\Users\YOOGAEM\Desktop\디비설계\NBM\obj\Debug\NBM.Properties.Resources.resources
+C:\Users\YOOGAEM\Desktop\디비설계\NBM\obj\Debug\NBM.csproj.GenerateResource.Cache
+C:\Users\YOOGAEM\Desktop\디비설계\NBM\obj\Debug\NBM.Form5.resources
+C:\Users\YOOGAEM\Desktop\디비설계\NBM\obj\Debug\NBM.Form6.resources
+C:\Users\Imvision\Desktop\새 폴더\NBM\bin\Debug\NBM.exe.config
+C:\Users\Imvision\Desktop\새 폴더\NBM\obj\Debug\NBM.exe
+C:\Users\Imvision\Desktop\새 폴더\NBM\obj\Debug\NBM.pdb
+C:\Users\Imvision\Desktop\새 폴더\NBM\bin\Debug\NBM.exe
+C:\Users\Imvision\Desktop\새 폴더\NBM\bin\Debug\NBM.pdb
+C:\Users\Imvision\Desktop\새 폴더\NBM\obj\Debug\NBM.csprojResolveAssemblyReference.cache
+C:\Users\Imvision\Desktop\새 폴더\NBM\obj\Debug\NBM.Form1.resources
+C:\Users\Imvision\Desktop\새 폴더\NBM\obj\Debug\NBM.Form2.resources
+C:\Users\Imvision\Desktop\새 폴더\NBM\obj\Debug\NBM.Form3.resources
+C:\Users\Imvision\Desktop\새 폴더\NBM\obj\Debug\NBM.Form4.resources
+C:\Users\Imvision\Desktop\새 폴더\NBM\obj\Debug\NBM.Form5.resources
+C:\Users\Imvision\Desktop\새 폴더\NBM\obj\Debug\NBM.Form6.resources
+C:\Users\Imvision\Desktop\새 폴더\NBM\obj\Debug\NBM.Properties.Resources.resources
+C:\Users\Imvision\Desktop\새 폴더\NBM\obj\Debug\NBM.csproj.GenerateResource.Cache
+C:\Users\YOOGAEM\Desktop\NBM v0.1\NBM\bin\Debug\NBM.exe.config
+C:\Users\YOOGAEM\Desktop\NBM v0.1\NBM\obj\Debug\NBM.exe
+C:\Users\YOOGAEM\Desktop\NBM v0.1\NBM\obj\Debug\NBM.pdb
+C:\Users\YOOGAEM\Desktop\NBM v0.1\NBM\obj\Debug\NBM.csprojResolveAssemblyReference.cache
+C:\Users\YOOGAEM\Desktop\NBM v0.1\NBM\obj\Debug\NBM.Form1.resources
+C:\Users\YOOGAEM\Desktop\NBM v0.1\NBM\obj\Debug\NBM.Form2.resources
+C:\Users\YOOGAEM\Desktop\NBM v0.1\NBM\obj\Debug\NBM.Form3.resources
+C:\Users\YOOGAEM\Desktop\NBM v0.1\NBM\obj\Debug\NBM.Form4.resources
+C:\Users\YOOGAEM\Desktop\NBM v0.1\NBM\obj\Debug\NBM.Form5.resources
+C:\Users\YOOGAEM\Desktop\NBM v0.1\NBM\obj\Debug\NBM.Form6.resources
+C:\Users\YOOGAEM\Desktop\NBM v0.1\NBM\obj\Debug\NBM.Properties.Resources.resources
+C:\Users\YOOGAEM\Desktop\NBM v0.1\NBM\obj\Debug\NBM.csproj.GenerateResource.Cache
+C:\Users\YOOGAEM\Desktop\NBM v0.1\NBM\bin\Debug\NBM.exe
+C:\Users\YOOGAEM\Desktop\NBM v0.1\NBM\bin\Debug\NBM.pdb
+C:\Users\YOOGAEM\Desktop\NBM v0.1\NBM\bin\Debug\MySql.Data.dll
+C:\Users\YOOGAEM\Desktop\YU\NBM v0.1\NBM\bin\Debug\NBM.exe.config
+C:\Users\YOOGAEM\Desktop\YU\NBM v0.1\NBM\obj\Debug\NBM.exe
+C:\Users\YOOGAEM\Desktop\YU\NBM v0.1\NBM\obj\Debug\NBM.pdb
+C:\Users\YOOGAEM\Desktop\YU\NBM v0.1\NBM\bin\Debug\NBM.exe
+C:\Users\YOOGAEM\Desktop\YU\NBM v0.1\NBM\bin\Debug\NBM.pdb
+C:\Users\YOOGAEM\Desktop\YU\NBM v0.1\NBM\bin\Debug\MySql.Data.dll
+C:\Users\YOOGAEM\Desktop\YU\NBM v0.1\NBM\obj\Debug\NBM.csprojResolveAssemblyReference.cache
+C:\Users\YOOGAEM\Desktop\YU\NBM v0.1\NBM\obj\Debug\NBM.Form1.resources
+C:\Users\YOOGAEM\Desktop\YU\NBM v0.1\NBM\obj\Debug\NBM.Form2.resources
+C:\Users\YOOGAEM\Desktop\YU\NBM v0.1\NBM\obj\Debug\NBM.Form3.resources
+C:\Users\YOOGAEM\Desktop\YU\NBM v0.1\NBM\obj\Debug\NBM.Form4.resources
+C:\Users\YOOGAEM\Desktop\YU\NBM v0.1\NBM\obj\Debug\NBM.Form5.resources
+C:\Users\YOOGAEM\Desktop\YU\NBM v0.1\NBM\obj\Debug\NBM.Form6.resources
+C:\Users\YOOGAEM\Desktop\YU\NBM v0.1\NBM\obj\Debug\NBM.Properties.Resources.resources
+C:\Users\YOOGAEM\Desktop\YU\NBM v0.1\NBM\obj\Debug\NBM.csproj.GenerateResource.Cache
+C:\Users\Jinsol\진솔문서\학부\4학년1학기\데이터베이스설계\프로젝트\NBM v0.3\NBM\bin\Debug\NBM.exe.config
+C:\Users\Jinsol\진솔문서\학부\4학년1학기\데이터베이스설계\프로젝트\NBM v0.3\NBM\obj\Debug\NBM.exe
+C:\Users\Jinsol\진솔문서\학부\4학년1학기\데이터베이스설계\프로젝트\NBM v0.3\NBM\obj\Debug\NBM.pdb
+C:\Users\Jinsol\진솔문서\학부\4학년1학기\데이터베이스설계\프로젝트\NBM v0.3\NBM\bin\Debug\NBM.exe
+C:\Users\Jinsol\진솔문서\학부\4학년1학기\데이터베이스설계\프로젝트\NBM v0.3\NBM\bin\Debug\NBM.pdb
+C:\Users\Jinsol\진솔문서\학부\4학년1학기\데이터베이스설계\프로젝트\NBM v0.3\NBM\obj\Debug\NBM.csprojResolveAssemblyReference.cache
+C:\Users\Jinsol\진솔문서\학부\4학년1학기\데이터베이스설계\프로젝트\NBM v0.3\NBM\obj\Debug\NBM.Form1.resources
+C:\Users\Jinsol\진솔문서\학부\4학년1학기\데이터베이스설계\프로젝트\NBM v0.3\NBM\obj\Debug\NBM.Form2.resources
+C:\Users\Jinsol\진솔문서\학부\4학년1학기\데이터베이스설계\프로젝트\NBM v0.3\NBM\obj\Debug\NBM.Form3.resources
+C:\Users\Jinsol\진솔문서\학부\4학년1학기\데이터베이스설계\프로젝트\NBM v0.3\NBM\obj\Debug\NBM.Form4.resources
+C:\Users\Jinsol\진솔문서\학부\4학년1학기\데이터베이스설계\프로젝트\NBM v0.3\NBM\obj\Debug\NBM.Form5.resources
+C:\Users\Jinsol\진솔문서\학부\4학년1학기\데이터베이스설계\프로젝트\NBM v0.3\NBM\obj\Debug\NBM.Form6.resources
+C:\Users\Jinsol\진솔문서\학부\4학년1학기\데이터베이스설계\프로젝트\NBM v0.3\NBM\obj\Debug\NBM.Properties.Resources.resources
+C:\Users\Jinsol\진솔문서\학부\4학년1학기\데이터베이스설계\프로젝트\NBM v0.3\NBM\obj\Debug\NBM.csproj.GenerateResource.Cache
+C:\Users\EMSYS\Desktop\NBM v0.4\NBM\bin\Debug\NBM.exe.config
+C:\Users\EMSYS\Desktop\NBM v0.4\NBM\obj\Debug\NBM.exe
+C:\Users\EMSYS\Desktop\NBM v0.4\NBM\obj\Debug\NBM.pdb
+C:\Users\EMSYS\Desktop\NBM v0.4\NBM\bin\Debug\NBM.exe
+C:\Users\EMSYS\Desktop\NBM v0.4\NBM\bin\Debug\NBM.pdb
+C:\Users\EMSYS\Desktop\NBM v0.4\NBM\obj\Debug\NBM.csprojResolveAssemblyReference.cache
+C:\Users\EMSYS\Desktop\NBM v0.4\NBM\obj\Debug\NBM.Form1.resources
+C:\Users\EMSYS\Desktop\NBM v0.4\NBM\obj\Debug\NBM.Form2.resources
+C:\Users\EMSYS\Desktop\NBM v0.4\NBM\obj\Debug\NBM.Form3.resources
+C:\Users\EMSYS\Desktop\NBM v0.4\NBM\obj\Debug\NBM.Form4.resources
+C:\Users\EMSYS\Desktop\NBM v0.4\NBM\obj\Debug\NBM.Form5.resources
+C:\Users\EMSYS\Desktop\NBM v0.4\NBM\obj\Debug\NBM.Form6.resources
+C:\Users\EMSYS\Desktop\NBM v0.4\NBM\obj\Debug\NBM.Properties.Resources.resources
+C:\Users\EMSYS\Desktop\NBM v0.4\NBM\obj\Debug\NBM.csproj.GenerateResource.Cache
